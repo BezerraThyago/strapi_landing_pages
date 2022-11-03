@@ -11,7 +11,7 @@ export default ({ env }) => ({
     },
     pool: {
       min: 0,
-      max: 5
+      max: 1
     }
   },
 })
